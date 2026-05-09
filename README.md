@@ -12,6 +12,7 @@ The project investigates image-based medicine package classification using three
 
 The objective is to compare traditional machine learning methods and a deep learning model for classifying medicine images and supporting medicine identification in a smart healthcare application.
 
+![Sample image](workflow-1.png)
 ## Dataset Information
 
 The dataset used in this study is a self-curated medicine image dataset captured using mobile phone cameras.
