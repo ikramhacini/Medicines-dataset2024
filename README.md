@@ -43,6 +43,14 @@ Data augmentation included:
 - Cropping
 - Contrast adjustment
 
+## Dataset Availability
+
+The self-curated medicine image dataset used in this study is available on Figshare:
+
+[Medicine Dataset 2024 - Figshare](https://figshare.com/s/1ffc918e9fdd8c9872ba)
+
+The dataset contains JPG images of medicine packages organized into 50 classes. The images were captured using mobile phone cameras and augmented to obtain 7,000 images.
+
 ## Code Information
 
 The repository includes two main implementation notebooks:
